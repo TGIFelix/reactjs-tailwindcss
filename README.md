@@ -1,5 +1,7 @@
 # REACT x TAILWIND
 
+![react x tailwind](./src/logo.svg)
+
 usage:
 
 ```shell
