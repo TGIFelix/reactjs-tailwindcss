@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          REACT x TAILWIND Boilerplate by <a className="App-link" href="http://www.github.com/tgifelix">@tgifelix</a>
         </p>
         <a
           className="App-link"
